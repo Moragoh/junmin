@@ -1,0 +1,73 @@
+/* Styles for HomePage Component */
+
+/* Overall container for the homepage */
+.home-page-container {
+  text-align: center; /* Centers the content horizontally */
+  background: linear-gradient(to bottom, #ffffff, #dbdbdb61); /* Gradient background from white to grayish beige */
+  min-height: 100vh; /* Ensures the gradient covers the full viewport height */
+}
+
+/* Styling for the centered content */
+.centered-content {
+  flex-direction: column;
+  font-size: 1.2em; /* Slightly increases the text size for all text within this container */
+  width: 100%
+}
+
+/* Styling for the title */
+.centered-content h1 {
+  margin-top: 5vh;
+  font-size: 2.5em; /* Makes the title very large */
+}
+
+/* Styling for the introduction text */
+.introduction {
+  color: #999; /* Applies a lighter gray color to the introduction text */
+}
+
+/* Fixed size container for Quotes) */
+.quote-container {
+  height: 20vh; /* Set a relative height for the container (adjust as needed) */
+  text-align: center; /* Center align the container content */
+
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column; /* Stack the elements vertically */
+  align-items: center;
+  justify-content: center;
+  height: 25vh;
+  text-align: center;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+.quote-text {
+  font-size: 1.2em;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "CMU Typewriter", monospace;
+  color: black;
+  white-space: normal;
+  overflow: hidden;
+  width: 50%;
+  color: #6b6b6b;
+}
+
+.link-content {
+  /* margin-top: 10vh */
+}
+
+/* Styling for unstyled links */
+/* Styling for unstyled links */
+.unstyled-link {
+  text-decoration: none; /* Removes text underline for links */
+  color: inherit; /* Inherits text color from the parent (usually black) */
+  display: block; /* Displays links on separate lines */
+  margin-bottom: 4vh; /* Adds margin at the bottom for spacing between links */
+  font-size: 2.5em; /* Makes links larger */
+  font-weight: bold; /* Makes the links bold */
+}

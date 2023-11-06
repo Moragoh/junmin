@@ -1,0 +1,60 @@
+/* Styles for ProjectsPage Component */
+
+.projects-page {
+    background-color: #fff; /* Solid white background */
+    text-align: center; /* Center-align content */
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .project-title {
+    font-size: 2em; /* Make project title big */
+    font-weight: bold; /* Make project title bold */
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Add spacing between project items */
+  }
+  
+  .project-item {
+    border: 1px solid #ccc; /* Add borders to project items */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add shadows to project items */
+    padding: 20px; /* Add padding for spacing */
+    width: 80%; /* Limit the width of project items */
+  
+    /* Center-align content within the project-item */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .project-item img {
+    padding: 50px;
+    max-width: 80%; /* Set a maximum width for the images */
+    height: auto; /* Maintain the aspect ratio of the images */
+  }
+  
+  .project-name {
+    font-size: 1.5em; /* Make project names big */
+    font-weight: bold; /* Make project names bold */
+  }
+  
+  .project-description {
+    color: #999; /* Apply a lighter gray color to project descriptions */
+  }
+  
+  .project-details-link {
+    text-decoration: none; /* Remove text underline for links */
+    color: inherit; /* Inherit text color from the parent (usually black) */
+    display: block; /* Display links on separate lines */
+    font-weight: bold; /* Make the links bold */
+    transition: color 0.2s; /* Add a color transition on hover */
+  }
+  
+  .project-details-link:hover {
+    color: #007bff; /* Change link color on hover */
+  }
+  

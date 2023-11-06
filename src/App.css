@@ -1,38 +1,21 @@
-.App {
-  text-align: center;
+/* Styles for App Component */
+
+/* Styling for the navigation bar */
+.nav-style {
+  list-style: none; /* Remove default list styling */
+  padding: 0; /* Remove default list padding */
+  display: flex; /* Make the navigation bar a flex container */
+  justify-content: center; /* Center the list items horizontally */
+  font-weight: bold; /* Make the navigation links bold */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-style li {
+  margin: 0 10px; /* Add margin to create space between list items */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Styling for unstyled links */
+.nav-style a {
+  text-decoration: none; /* Removes text underline for links */
+  color: inherit; /* Inherits text color from the parent (usually black) */
+  font-weight: bold; /* Make the links bold */
 }
