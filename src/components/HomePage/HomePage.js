@@ -18,9 +18,9 @@ function HomePage() {
           <p className="quote-text">{randomQuote.author}</p> {/* Display the author below the quote */}
         </div>
         <div className="link-content">
-          <Link to="/about" className="unstyled-link">About Me</Link>
-          <Link to="/projects" className="unstyled-link">Projects</Link>
-          <Link to="/novel" className="unstyled-link">A Novel I Wrote</Link>
+          <Link to="/junmin/about" className="unstyled-link">About Me</Link>
+          <Link to="/junmin/projects" className="unstyled-link">Projects</Link>
+          <Link to="/junmin/novel" className="unstyled-link">A Novel I Wrote</Link>
         </div>
       </div>
     </div>
