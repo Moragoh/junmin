@@ -39,19 +39,20 @@
   flex-direction: column; /* Stack the elements vertically */
   align-items: center;
   justify-content: center;
-  height: 30vh;
+  min-height: 30vh; /* Set a minimum height */
+  height: auto; /* Allow the container to expand based on content */
   text-align: center;
   margin-top: 10vh;
   margin-bottom: 10vh;
 }
 
 .quote-text {
-  font-size: 1.15em;
+  font-size: 1.2em;
   font-weight: bold;
   font-style: italic;
   font-family: "CMU Typewriter", monospace;
   white-space: normal;
-  overflow: clip;
+  overflow: hidden;
   width: 50%;
   color: #6b6b6b;
 }

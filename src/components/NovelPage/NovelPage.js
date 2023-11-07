@@ -31,17 +31,12 @@ function NovelPage() {
           To be honest with you, I was very afraid that the time I would spend in the army would set me back from all of my peers, who were able to continue with their studies. I was desperately looking for something 
           that could serve as proof to myself that my time was not wasted. 
           <br/> <br/>
-          I would have opted for a project related to programming under normal circumstances, but my circumstances were anything but. I did not know which base I would be assigned at. 
-          And since enlisted men aren't allowed any personal devices other than their phones (and a very limited access at that), it meant that my plans would be dead in the water if I did not end up at a base with access to computers. 
+          I would have opted for a project related for programming--game development, perhaps. But access to a computer wasn't guarenteed in the army. Enlisted men only had access to one phone, and a limited access at that.
+          So in looking for a project I could pursue no matter where I was assigned, whether that was in Seoul or at the DMZ bordering North Korea, I decided that I would write a book. Access to 
+          novels, notebooks, and pens I was guarenteed.
           <br/> <br/>
-          I needed a Plan B. A project I could pursue no matter where I ended up, whether that was in Seoul or at the DMZ bordering North Korea. And there were three things I knew for sure I would have access to in the army: novels, notebooks, and a pencil.
-          So out of the availability of those three items, along with the fact that I had always enjoyed storytelling, I decided that my project would be to finish a novel in a year and a half. 
-          <br/> <br/>
-          At the time, I had been in Korea for a year and a half, both finishing my high school diploma and starting my studies at UC Davis virtually from home. The last time I was in the States in high school in Monterey, California, before 
-          I had to abruptly return home due to the pandemic. Missing Monterey dearly, I decided that should be the setting of my book. 
-          <br/> <br/>
-          It turned out that the base I was stationed at had a computer after all. It had a small room with a few old machine, connected to busted-up keyboards with spacebars that refused to work. But by the time I had there 
-          after boot camp I was already set on writing a novel, so I decided to stick with the goal despite the access to computers.  
+          When I was stationed at USAG Yongsan after basic training, it turned out the barracks had access to computers after all. It had a small room with a few old machine, connected to busted-up keyboards with spacebars that refused to work. But by the time I had there 
+          after was already set on writing a novel.
           And after around a year of writing in that old yellow room, waging war every night with a terrible keyboard that would just not listen, I was able to complete my first draft.
           <br/> <br/>
           Looking back, I don't think I would consider my time in the army a waste even without the novel. Still, having the novel to work through got me through some of the most challenging times there,
