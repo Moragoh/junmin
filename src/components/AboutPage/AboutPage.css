@@ -1,0 +1,42 @@
+/* Styles for AboutPage Component */
+
+/* Overall container for the AboutPage */
+.about-page-container {
+    text-align: center; /* Center align content horizontally */
+    padding: 1vh; /* Add some padding to the container */
+  }
+  
+  /* Styling for the title */
+  .about-title {
+    font-weight: bold; /* Make the title bold */
+    font-size: 2.5em; /* Adjust the title font size as needed */
+    margin: 1vh 0; /* Add spacing above and below the title */
+  }
+  
+/* Styling for content sections */
+.about-content {
+    font-size: 1.2em;
+    display: inline-block;
+    margin: 1vh;
+    text-align: justify; /* Set text alignment to left */
+    max-width: 80%; /* Limit the width to 80% of the screen's width */
+  }
+  
+.picture-container {
+    margin-top: 5vh;
+}
+
+/* Styling for images */
+.about-picture {
+    display: block;
+    margin: 0 auto ; /* Center align images horizontally */
+    max-width: 30%; /* Ensure images don't exceed their container */
+  }
+  
+  /* Styling for smaller gray text */
+  .about-subtext {
+    font-size: 0.9em; /* Adjust the font size as needed */
+    color: #6b6b6b; /* Set the text color to gray */
+    text-align: center;
+  }
+  

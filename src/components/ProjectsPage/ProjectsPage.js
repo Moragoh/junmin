@@ -1,6 +1,7 @@
 import React from 'react';
 import './ProjectsPage.css';
 
+// Image imports
 import gluChartImage from '../../images/GluChart.jpg';
 import minelessImage from '../../images/Mineless.PNG';
 import officewareImage from '../../images/Officeware.png';
@@ -13,7 +14,8 @@ function ProjectsPage() {
         <div className="project-item">
           <h2 className="project-name">GluChart (Hackathon Project)</h2>
           <p className="project-description">
-            A machine learning blood glucose level predictor for people with diabetes. Best Overall / Best Healthcare Hack at HackDavis 2023.
+            A machine learning blood glucose level predictor for people with diabetes. <div></div>
+            Best Overall / Best Healthcare Hack at HackDavis 2023.
           </p>
           <img src={gluChartImage} alt="GluChart Preview" />
           <a className="project-details-link" href="https://devpost.com/software/gluchart" target="_blank" rel="noopener noreferrer">
@@ -23,7 +25,8 @@ function ProjectsPage() {
         <div className="project-item">
           <h2 className="project-name">Mineless</h2>
           <p className="project-description">
-            A puzzle game where you must manage and rescue miners in a cave with an hour-long story mode campaign. Programming, story, and art assets by me.
+            A puzzle game where you must manage and rescue miners in a cave with an hour-long story mode campaign. <div></div>
+            Programming, story, and art assets by me.
           </p>
           <img src={minelessImage} alt="Mineless Preview" />
           <a className="project-details-link" href="https://github.com/Moragoh/Mineless-Sam" target="_blank" rel="noopener noreferrer">
