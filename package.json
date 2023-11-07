@@ -1,4 +1,6 @@
 {
+  "homepage": "http://Moragoh.github.io/junmin/",
+  "name": "junmin"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
