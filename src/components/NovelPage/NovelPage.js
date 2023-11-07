@@ -5,8 +5,7 @@ function NovelPage() {
   const [novelContent, setNovelContent] = useState('');
 
   useEffect(() => {
-    // Fetch and load the novel content from a .txt file
-    fetch('./MontereyStoryFirst4.txt') 
+    fetch(process.env.PUBLIC_URL + '/MontereyStoryFirst4.txt')
       .then((response) => response.text())
       .then((data) => {
         // Replace newline characters with HTML line breaks

@@ -3,11 +3,10 @@
 .projects-page {
     background-color: #fff; /* Solid white background */
     text-align: center; /* Center-align content */
-    padding: 20px; /* Add padding for spacing */
   }
   
   .project-title {
-    font-size: 2em; /* Make project title big */
+    font-size: 2.5em; /* Make project title big */
     font-weight: bold; /* Make project title bold */
   }
   
@@ -15,13 +14,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px; /* Add spacing between project items */
+    gap: 2em; /* Add spacing between project items */
   }
   
   .project-item {
     border: 1px solid #ccc; /* Add borders to project items */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add shadows to project items */
-    padding: 20px; /* Add padding for spacing */
+    padding: 1em; /* Add padding for spacing */
     width: 80%; /* Limit the width of project items */
   
     /* Center-align content within the project-item */
@@ -32,7 +31,7 @@
   }
   
   .project-item img {
-    padding: 50px;
+    padding: 3em;
     max-width: 80%; /* Set a maximum width for the images */
     height: auto; /* Maintain the aspect ratio of the images */
   }

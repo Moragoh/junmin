@@ -14,26 +14,26 @@ function App() {
         <nav>
           <ul className="nav-style">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/junmin">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/junmin/about">About</Link>
             </li>
             <li>
-              <Link to="/projects">Projects</Link>
+              <Link to="/junmin/projects">Projects</Link>
             </li>
             <li>
-              <Link to="/novel">A Novel I Wrote</Link>
+              <Link to="/junmin/novel">A Novel I Wrote</Link>
             </li>
           </ul>
         </nav>
 
         {/* Routes Configuration */}
         <Routes>
-          <Route path="/about" element={<AboutPage />} />
-          <Route path="/projects" element={<ProjectsPage />} />
-          <Route path="/novel" element={<NovelPage />} />
-          <Route path="/" element={<HomePage />} />
+          <Route path="/junmin/about" element={<AboutPage />} />
+          <Route path="/junmin/projects" element={<ProjectsPage />} />
+          <Route path="/junmin/novel" element={<NovelPage />} />
+          <Route path="/junmin" element={<HomePage />} />
         </Routes>
       </div>
     </Router>
