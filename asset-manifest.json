@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/junmin/static/css/main.75057370.css",
-    "main.js": "/junmin/static/js/main.ec6a24c8.js",
+    "main.js": "/junmin/static/js/main.b8982fb4.js",
     "static/js/787.72484a42.chunk.js": "/junmin/static/js/787.72484a42.chunk.js",
     "static/media/Monterey1.jpg": "/junmin/static/media/Monterey1.f5eebf93c7c82a55fd86.jpg",
     "static/media/CFCAbandoned.JPG": "/junmin/static/media/CFCAbandoned.6aa321f2207c77ae754c.JPG",
@@ -10,11 +10,11 @@
     "static/media/GluChart.jpg": "/junmin/static/media/GluChart.44597edf817170a632ee.jpg",
     "index.html": "/junmin/index.html",
     "main.75057370.css.map": "/junmin/static/css/main.75057370.css.map",
-    "main.ec6a24c8.js.map": "/junmin/static/js/main.ec6a24c8.js.map",
+    "main.b8982fb4.js.map": "/junmin/static/js/main.b8982fb4.js.map",
     "787.72484a42.chunk.js.map": "/junmin/static/js/787.72484a42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75057370.css",
-    "static/js/main.ec6a24c8.js"
+    "static/js/main.b8982fb4.js"
   ]
 }
