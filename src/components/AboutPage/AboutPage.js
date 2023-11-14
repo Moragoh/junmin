@@ -41,7 +41,7 @@ function AboutPage() {
         <p>It was a difficult time in the army--I was away from home; not allowed to set foot outside of the parameters of the base with the exception of short approved leaves
           which was few and far between, lost sleep as I completed my guard shifts from 2-4 AM only to get up at 6:30 the next morning, all the while feeling like the
           rest of the world, the friends I had known, were moving on away.  <br></br> <br></br>
-          But it was also a beautiful time--I made the greatest friends a person could ask for, people that would bringe me a big smile from just the sight of them and vice-versa; 
+          But it was also a beautiful time--I made the greatest friends a person could ask for, people that would bring me a big smile from just the sight of them and vice-versa; 
           ran 10km every day as I competed to be on of the top runners of my unit (one day of leave was promised to the top-three runners, and ruining my knee to get out of service a day 
           early seemed like a good deal back then), read every moment I could at the office when I didn't have documents to translate, and wrote my novel in the evenings. <br></br> <br></br>
           Friends, exercise, reading, and a novel. All in all, not too bad.
