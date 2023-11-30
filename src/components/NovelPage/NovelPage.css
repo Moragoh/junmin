@@ -12,6 +12,12 @@
     font-size: 2.5em; /* Adjust the title font size as needed */
     margin: 1vh 0; /* Add spacing above and below the title */
   }
+
+  /* Styling for the introduction text */
+.novel-description {
+  font-size: 1em;
+  color: #999; /* Applies a lighter gray color to the introduction text */
+}
   
   .novel-intro {
     font-size:1em;
