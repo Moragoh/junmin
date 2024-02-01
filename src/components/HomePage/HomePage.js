@@ -21,7 +21,7 @@ function HomePage() {
           <Link to="/junmin/about" className="unstyled-link">About Me</Link>
           <Link to="/junmin/projects" className="unstyled-link">Projects</Link>
           <Link to="https://github.com/Moragoh" className="unstyled-link" target="_blank" rel="noopener noreferrer">Github</Link>
-          <Link to="/junmin/novel" className="unstyled-link">A Novel I Wrote</Link>
+          <Link to="/junmin/novel" className="unstyled-link">Things I Wrote</Link>
         </div>
       </div>
     </div>
