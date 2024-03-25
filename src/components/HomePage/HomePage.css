@@ -62,7 +62,6 @@
 }
 
 /* Styling for unstyled links */
-/* Styling for unstyled links */
 .unstyled-link {
   text-decoration: none; /* Removes text underline for links */
   color: inherit; /* Inherits text color from the parent (usually black) */

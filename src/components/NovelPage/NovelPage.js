@@ -36,9 +36,10 @@ function NovelPage() {
         </p>
       </div>
 
-      <p>Click the link below to view the sample</p>
+      <p>Click the link below to view the sample:</p>
 
-      <a href="../../public/pdfs/A_Monterey_Story_Sample.pdf" download="A_Monterey_Story_Sample.pdf">Download PDF</a>
+      <a href="../../pdfs/A_Monterey_Story_Sample.pdf" download="A_Monterey_Story_Sample.pdf">Download PDF</a>
+      
       {/* To Display it as raw text */}
       {/* Use dangerouslySetInnerHTML to render HTML content (the content of the .txt file)
       <p className="novel-content" dangerouslySetInnerHTML={{ __html: novelContent }} />  */}

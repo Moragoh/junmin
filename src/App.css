@@ -2,20 +2,29 @@
 
 /* Styling for the navigation bar */
 .nav-style {
-  list-style: none; /* Remove default list styling */
-  padding: 0; /* Remove default list padding */
-  display: flex; /* Make the navigation bar a flex container */
-  justify-content: center; /* Center the list items horizontally */
-  font-weight: bold; /* Make the navigation links bold */
+  position: fixed;
+  top: 0vh;
+  margin: 0;
+  list-style: none;
+  padding: .5vh 0vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  height: 2.5vh;
+  width: 100%;
+  text-align: center;
+  background-color: white;
 }
 
 .nav-style li {
-  margin: 0 10px; /* Add margin to create space between list items */
+  margin: 0 1%;
 }
 
 /* Styling for unstyled links */
 .nav-style a {
-  text-decoration: none; /* Removes text underline for links */
-  color: inherit; /* Inherits text color from the parent (usually black) */
-  font-weight: bold; /* Make the links bold */
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin: 0 1vh;
 }

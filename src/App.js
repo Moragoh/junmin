@@ -1,10 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import HomePage from './components/HomePage/HomePage';
-import AboutPage from './components/AboutPage/AboutPage';
-import ProjectsPage from './components/ProjectsPage/ProjectsPage';
-import NovelPage from './components/NovelPage/NovelPage';
+import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import './App.css';
+import AboutPage from './components/AboutPage/AboutPage';
+import HomePage from './components/HomePage/HomePage';
+import NovelPage from './components/NovelPage/NovelPage';
+import ProjectsPage from './components/ProjectsPage/ProjectsPage';
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
               <Link to="/junmin/projects">Projects</Link>
             </li>
             <li>
-              <Link to="/junmin/novel">A Novel I Wrote</Link>
+              <Link to="/junmin/novel">Things I Wrote</Link>
             </li>
           </ul>
         </nav>
