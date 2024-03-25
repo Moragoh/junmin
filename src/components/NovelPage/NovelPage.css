@@ -2,54 +2,85 @@
 
 /* Overall container for the NovelPage */
 .novel-page-container {
-    text-align: center; /* Center align content horizontally */
-    padding: 1vh; /* Add some padding to the container */
-  }
-  
-  /* Styling for the title */
-  .novel-title {
-    font-weight: bold; /* Make the title bold */
-    font-size: 2.5em; /* Adjust the title font size as needed */
-    margin: 1vh 0; /* Add spacing above and below the title */
-  }
+  text-align: center;
+  /* Center align content horizontally */
+  padding: 1vh;
+  /* Add some padding to the container */
+}
 
-  /* Styling for the introduction text */
+/* Styling for the title */
+.novel-title {
+  font-weight: bold;
+  /* Make the title bold */
+  font-size: 2.5em;
+  /* Adjust the title font size as needed */
+  margin: 1vh 0;
+  /* Add spacing above and below the title */
+}
+
+/* Styling for the introduction text */
 .novel-description {
   font-size: 1em;
-  color: #999; /* Applies a lighter gray color to the introduction text */
+  color: #999;
+  /* Applies a lighter gray color to the introduction text */
 }
-  
-  .novel-intro {
-    font-size:1em;
-    text-align: left;
-    max-width: 80%;
-    margin: 0 auto 10vh
-    
-  }
 
-  /* Styling for the novel content */
-  .novel-content {
-    text-align: left;
-    max-width: 80%; /* Limit the width to 80% of the screen's width */
-    margin: 0 auto 2vh; /* Add margin at the bottom for spacing */
-    font-family: "Times New Roman", Times, serif; /* Change font to Times New Roman */
-  }
-  
-  .novel-quotecontainer {
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-  }
+.novel-intro {
+  font-size: 1em;
+  text-align: left;
+  max-width: 80%;
+  margin: 0 auto 10vh
+}
 
-  /* Styling for the novel quote */
-  .novel-quote {
-    text-align: center; /* Center align the quote horizontally */
-    font-size: 1.5em; /* Adjust the font size as needed */
-    font-style: italic; /* Italicize the quote */
-    font-weight: bold; /* Make the quote bold */
-    font-family: "CMU Typewriter", monospace; /* Use CMU Typewriter font */
-    color: #6b6b6b;; /* Set the text color to gray */
-    max-width: 50%; /* Limit the quote's width to 80% of the screen's width */
-    margin: 0 auto 2vh; /* Center the quote horizontally within the container */
+/* Styling for the novel content */
+.novel-content {
+  text-align: left;
+  max-width: 80%;
+  /* Limit the width to 80% of the screen's width */
+  margin: 0 auto 2vh;
+  /* Add margin at the bottom for spacing */
+  font-family: "Times New Roman", Times, serif;
+  /* Change font to Times New Roman */
+}
 
-  }
-  
+.novel-quotecontainer {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+/* Styling for the novel quote */
+.novel-quote {
+  text-align: center;
+  /* Center align the quote horizontally */
+  font-size: 1.5em;
+  /* Adjust the font size as needed */
+  font-style: italic;
+  /* Italicize the quote */
+  font-weight: bold;
+  /* Make the quote bold */
+  font-family: "CMU Typewriter", monospace;
+  /* Use CMU Typewriter font */
+  color: #6b6b6b;
+  ;
+  /* Set the text color to gray */
+  max-width: 50%;
+  /* Limit the quote's width to 80% of the screen's width */
+  margin: 0 auto 2vh;
+  /* Center the quote horizontally within the container */
+}
+
+/* Styling for unstyled links */
+.unstyled-link-novel-page {
+  text-decoration: none;
+  /* Removes text underline for links */
+  color: inherit;
+  /* Inherits text color from the parent (usually black) */
+  display: block;
+  /* Displays links on separate lines */
+  margin-bottom: 4vh;
+  /* Adds margin at the bottom for spacing between links */
+  font-size: 1.5em;
+  /* Makes links larger */
+  font-weight: bold;
+  /* Makes the links bold */
+}

@@ -38,8 +38,9 @@ function NovelPage() {
 
       {/* <p>Link to the sample:</p> */}
 
-      <a href="https://drive.google.com/file/d/1wzyCiFgXcBR1F5bq9wprgDWtQciZDt9k/view?usp=sharing">Link to PDF</a>
-      <a href="https://open.spotify.com/playlist/2wKxNkT4hk1yFqqZHj3mnf?si=352b751628af4d4b">Companion Playlist</a>
+      <a href="https://drive.google.com/file/d/1wzyCiFgXcBR1F5bq9wprgDWtQciZDt9k/view?usp=sharing" className="unstyled-link-novel-page" target="_blank" rel="noreferrer">Link to PDF</a>
+      <a href="https://open.spotify.com/playlist/2wKxNkT4hk1yFqqZHj3mnf?si=352b751628af4d4b" className="unstyled-link-novel-page" target="_blank" rel="noreferrer">Companion Playlist</a>
+
 
 
       {/* To Display it as raw text */}
