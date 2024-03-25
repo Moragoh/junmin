@@ -33,8 +33,8 @@
 
 /* Fixed size container for Quotes */
 .quote-container {
-  min-height: 15vh;
-  max-height: 20vh;
+  /* min-height: 15vh;
+  max-height: 20vh; */
   height: auto;
   /* Set a relative height for the container */
   text-align: center;
