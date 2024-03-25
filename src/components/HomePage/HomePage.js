@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Import the Link component
-import './HomePage.css';
 import quotesData from '../../data/quotes.json'; // Adjust the file path as needed
+import './HomePage.css';
 
 const quotes = quotesData.quotes;
-<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cmu-typewriter" type="text/css"/> 
+<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cmu-typewriter" type="text/css" />
 
 function HomePage() {
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
