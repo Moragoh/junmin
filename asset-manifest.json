@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/junmin/static/css/main.c699eb6f.css",
-    "main.js": "/junmin/static/js/main.d7316442.js",
+    "main.css": "/junmin/static/css/main.42cb06ad.css",
+    "main.js": "/junmin/static/js/main.a2f9d5ca.js",
     "static/js/787.72484a42.chunk.js": "/junmin/static/js/787.72484a42.chunk.js",
     "static/media/Monterey1.jpg": "/junmin/static/media/Monterey1.f5eebf93c7c82a55fd86.jpg",
     "static/media/CFCAbandoned.JPG": "/junmin/static/media/CFCAbandoned.6aa321f2207c77ae754c.JPG",
@@ -9,12 +9,12 @@
     "static/media/yongsan.jpg": "/junmin/static/media/yongsan.b6c84b38b79ccb642a18.jpg",
     "static/media/GluChart.jpg": "/junmin/static/media/GluChart.44597edf817170a632ee.jpg",
     "index.html": "/junmin/index.html",
-    "main.c699eb6f.css.map": "/junmin/static/css/main.c699eb6f.css.map",
-    "main.d7316442.js.map": "/junmin/static/js/main.d7316442.js.map",
+    "main.42cb06ad.css.map": "/junmin/static/css/main.42cb06ad.css.map",
+    "main.a2f9d5ca.js.map": "/junmin/static/js/main.a2f9d5ca.js.map",
     "787.72484a42.chunk.js.map": "/junmin/static/js/787.72484a42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c699eb6f.css",
-    "static/js/main.d7316442.js"
+    "static/css/main.42cb06ad.css",
+    "static/js/main.a2f9d5ca.js"
   ]
 }
