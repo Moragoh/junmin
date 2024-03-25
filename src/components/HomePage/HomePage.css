@@ -6,7 +6,7 @@
   /* Centers the content horizontally */
   background: linear-gradient(to bottom, #ffffff, #dbdbdb61);
   /* Gradient background from white to grayish beige */
-  min-height: 100vh;
+  min-height: 120vh;
   /* Ensures the gradient covers the full viewport height */
 }
 
@@ -34,7 +34,7 @@
 /* Fixed size container for Quotes */
 .quote-container {
   /* min-height: 15vh;
-  max-height: 20vh; */
+  max-height: 15vh; */
   height: auto;
   /* Set a relative height for the container */
   text-align: center;
@@ -50,8 +50,7 @@
   /* Allow the container to expand based on content */
   text-align: center;
 
-
-  overflow: ellipsis;
+  overflow: hidden;
   /* Hide overflow content */
 }
 
@@ -63,7 +62,7 @@
   white-space: normal;
   width: 50%;
   color: #6b6b6b;
-  /* Allow the browser to adjust the text size */
+  /* Display an ellipsis (...) when text overflows */
 }
 
 /* Styling for unstyled links */

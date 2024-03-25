@@ -1,57 +1,56 @@
 {
-    "quotes": [
-      {
-        "text": "\"I've seen a look in dogs' eyes, a quickly vanishing look of amazed contempt, and I am convinced that basically dogs think humans are nuts.\"",
-        "author": "John Steinbeck, Travels with Charley"
-      },
-      {
-        "text": "\"And now that you don't have to be perfect, you can be good.\"",
-        "author": "John Steinbeck, East of Eden"
-      },
-      {
-        "text": "\"It is the dull eventless times that have no duration whatever. A time splashed with interest, wounded with tragedy, crevassed with joy - that's the time that seems long in the memory. And this is right when you think about it. Eventlessness has no posts to drape duration on. From nothing to nothing is no time at all.\"",
-        "author": "John Steinbeck, East of Eden"
-      },
-      {
-        "text": "\"Humility is not thinking less of yourself, it's thinking of yourself less.\"",
-        "author": "CS Lewis"
-      },
-      {
-        "text": "\"For kindness begins where necessity ends.\"",
-        "author": "Amor Towles, The Lincoln Highway"
-      },
-      {
-        "text": "\"Children inherit their parents' madness.\"",
-        "author": "Gabriel García Márquez, One Hundred Years of Solitude"
-      },
-      {
-        "text": "\"Its easy to make frends if you let pepul laff at you.\"",
-        "author": "Daniel Keyes, Flowers for Algernon"
-      },
-      {
-        "text": "“Be curious, not judgmental.“",
-        "author": "Often misattributed to Walt Whitman"
-      },
-      {
-        "text": "\"\"I wish it need not have happened in my time,\" said Frodo. \"So do I,\" said Gandalf, \"and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.\"\"",
-        "author": "J.R.R. Tolkien, The Fellowship of the Ring "
-      },
-      {
-        "text": "\"If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first.\"",
-        "author": "Often said to have been by Mark Twain"
-      },
-      {
-        "text": "\"Mottoes have a way of being compounded of wishes and dreams. The motto of the United States, \"E Pluribus Unum,\" is a fact.\"",
-        "author": "John Steinbeck, America and Americans"
-      },
-      {
-        "text": "\"Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.\"",
-        "author": "Vincent Van Gogh"
-      },
-      {
-        "text": "\"We are all travelers in the wilderness of this world, and the best we can find in our travels is an honest friend.\"",
-        "author": "Robert Louis Stevenson"
-      }
-    ]
-  }
-  
+  "quotes": [
+    {
+      "text": "\"I've seen a look in dogs' eyes, a quickly vanishing look of amazed contempt, and I am convinced that basically dogs think humans are nuts.\"",
+      "author": "John Steinbeck, Travels with Charley"
+    },
+    {
+      "text": "\"And now that you don't have to be perfect, you can be good.\"",
+      "author": "John Steinbeck, East of Eden"
+    },
+    {
+      "text": "\"A time splashed with interest, wounded with tragedy, crevassed with joy - that's the time that seems long in the memory.\"",
+      "author": "John Steinbeck, East of Eden"
+    },
+    {
+      "text": "\"Humility is not thinking less of yourself, it's thinking of yourself less.\"",
+      "author": "CS Lewis"
+    },
+    {
+      "text": "\"For kindness begins where necessity ends.\"",
+      "author": "Amor Towles, The Lincoln Highway"
+    },
+    {
+      "text": "\"Children inherit their parents' madness.\"",
+      "author": "Gabriel García Márquez, One Hundred Years of Solitude"
+    },
+    {
+      "text": "\"Its easy to make frends if you let pepul laff at you.\"",
+      "author": "Daniel Keyes, Flowers for Algernon"
+    },
+    {
+      "text": "“Be curious, not judgmental.“",
+      "author": "Often misattributed to Walt Whitman"
+    },
+    {
+      "text": "\"\"I wish it need not have happened in my time,\" said Frodo. \"So do I,\" said Gandalf, \"and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.\"\"",
+      "author": "J.R.R. Tolkien, The Fellowship of the Ring "
+    },
+    {
+      "text": "\"If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first.\"",
+      "author": "Often said to have been by Mark Twain"
+    },
+    {
+      "text": "\"Mottoes have a way of being compounded of wishes and dreams. The motto of the United States, \"E Pluribus Unum,\" is a fact.\"",
+      "author": "John Steinbeck, America and Americans"
+    },
+    {
+      "text": "\"Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.\"",
+      "author": "Vincent Van Gogh"
+    },
+    {
+      "text": "\"We are all travelers in the wilderness of this world, and the best we can find in our travels is an honest friend.\"",
+      "author": "Robert Louis Stevenson"
+    }
+  ]
+}
