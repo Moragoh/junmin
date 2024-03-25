@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import './NovelPage.css';
 
 function NovelPage() {
@@ -30,16 +30,18 @@ function NovelPage() {
       <div className="novel-intro">
         <p>
           A novel I wrote during my service in the army.
-          <br/> <br/>
-          I am very grateful that I was able to finish it and share it with others--even if it is full of flaws and not very good at all. Below are the first four chapters. If you want to somehow read more 
+          <br /> <br />
+          I am very grateful that I was able to finish it and share it with others--even if it is full of flaws and not very good at all. Below are the first four chapters. If you want to somehow read more
           after going through it, please shoot me an email at: jnm.kim.josh@gmail.com.
         </p>
       </div>
 
-      <p>Click the link below to view the sample:</p>
+      {/* <p>Link to the sample:</p> */}
 
-      <a href="../../pdfs/A_Monterey_Story_Sample.pdf" download="A_Monterey_Story_Sample.pdf">Download PDF</a>
-      
+      <a href="https://drive.google.com/file/d/1wzyCiFgXcBR1F5bq9wprgDWtQciZDt9k/view?usp=sharing">Link to PDF</a>
+      <a href="https://open.spotify.com/playlist/2wKxNkT4hk1yFqqZHj3mnf?si=352b751628af4d4b">Companion Playlist</a>
+
+
       {/* To Display it as raw text */}
       {/* Use dangerouslySetInnerHTML to render HTML content (the content of the .txt file)
       <p className="novel-content" dangerouslySetInnerHTML={{ __html: novelContent }} />  */}
