@@ -37,8 +37,7 @@ function NovelPage() {
       </div>
 
       {/* <p>Link to the sample:</p> */}
-
-      <a href="https://drive.google.com/file/d/1wzyCiFgXcBR1F5bq9wprgDWtQciZDt9k/view?usp=sharing" className="unstyled-link-novel-page" target="_blank" rel="noreferrer">Link to PDF</a>
+      <a href="https://drive.google.com/file/d/1Fbc0WxDv3a4faMqKvSMe829gpWBC_sZX/view?usp=sharing" className="unstyled-link-novel-page" target="_blank" rel="noreferrer">Link to PDF</a>
       <a href="https://open.spotify.com/playlist/2wKxNkT4hk1yFqqZHj3mnf?si=352b751628af4d4b" className="unstyled-link-novel-page" target="_blank" rel="noreferrer">Companion Playlist</a>
 
 
